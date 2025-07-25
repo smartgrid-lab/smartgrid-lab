@@ -1,16 +1,38 @@
-## Hi there 👋
+# ⚡ Welcome to SmartGrid Lab
+### Where Artificial Intelligence meets Sustainable Energy
 
-<!--
-**smartgrid-lab/smartgrid-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Alya 👋  
+This is my technical lab space focused on the intersection of:
+- 💡 Smart Grids
+- 🧠 Artificial Intelligence
+- 🧪 MATLAB Modeling & Simulations
+- 🌱 Renewable and Sustainable Energy Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What You’ll Find Here
+🚧 *In Progress Projects*:
+- **Energy Forecasting using Neural Networks in MATLAB**
+- **Digital Twin Prototype for Smart Power Systems**
+- **Fault Detection in Energy Grids using Machine Learning**
+- **Solar Data Analysis with AI-based Optimization**
+
+🧠 *Technical Tools*:
+- MATLAB + Simulink
+- Python (Scikit-learn, TensorFlow)
+- Energy datasets + Visualization tools
+
+---
+
+## 🎯 Mission
+> To design intelligent and efficient energy systems that support sustainability and innovation using AI, data, and simulations.
+
+---
+
+## 📊 Featured Work Preview (coming soon)
+![Smart Grid Example](https://via.placeholder.com/600x300?text=Smart+Grid+Project+Visualization)
+
+---
+
+
+🔬 Let’s build the future of energy — one intelligent system at a time.
